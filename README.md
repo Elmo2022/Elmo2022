@@ -1,4 +1,10 @@
-### Hi there 👋
+### 你好 👋
+### 我是Elmo2022，一名前端开发爱好者🌱
+### js+ts+vue+react+t3app 这些都是我感兴趣的点😄
+
+### 学无止境，勇闯天涯
+
+[![Elmo2022's GitHub | Languages Over Time](https://stats.quine.sh/Elmo2022/languages-over-time?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=Elmo2022)
 
 <!--
 **Elmo2022/Elmo2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
