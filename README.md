@@ -1,8 +1,8 @@
 ### 你好 👋
-### 我是Elmo2022，一名前端开发爱好者🌱
-###  TypeScript  JavaScript  Vue  React  Nextjs  这些都是我感兴趣的点😄
-### 学无止境，勇闯天涯
-🌸🌾🌿🌹🌱🍃🌻💐🌷💮🌺
+### 我是Elmo2022，一名前端爱好者🌱，目前也在从事web开发工作@🐶
+### JavaScript TypeScript  Vue  React  Nextjs  这些都是我感兴趣的点😄
+### 希望能够做出一些优秀的、有价值的产品
+
 <!-- [![Elmo2022's GitHub | Languages Over Time](https://stats.quine.sh/Elmo2022/languages-over-time?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=Elmo2022) -->
 
 <!--
