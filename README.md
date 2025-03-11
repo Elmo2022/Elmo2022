@@ -1,7 +1,12 @@
-### 你好 👋
-### 我是Elmo2022，一名前端爱好者
-### 希望能够做出一些优秀的、有价值的产品
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" /><img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript" /><img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react" /><img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js" /><img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js"/>
+### Hello 👋
+### I am Tianbo Zhang, a  front-end enthusiast.
+### I hope to create some excellent and valuable products.
+<code><img src="https://img.shields.io/badge/JavaScript-yellow.svg?style=for-the-badge&logo=javaScript&logoColor=white"/></code>
+<code><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/></code>
+<code><img src="https://img.shields.io/badge/node-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/></code>
+<code><img src="https://img.shields.io/badge/react.js-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/></code>
+<code><img src="https://img.shields.io/badge/next-black.svg?style=for-the-badge&logo=Next&logoColor=white"/></code>
+<code><img src="https://img.shields.io/badge/vue-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/></code>
 
 
 <!-- [![Elmo2022's GitHub | Languages Over Time](https://stats.quine.sh/Elmo2022/languages-over-time?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=Elmo2022) -->
