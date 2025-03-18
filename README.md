@@ -1,12 +1,19 @@
 ### Hello 👋
 ### I am Tianbo Zhang, a  front-end enthusiast.
 ### I hope to create some excellent and valuable products.
-<code><img src="https://img.shields.io/badge/JavaScript-yellow.svg?style=for-the-badge&logo=javaScript&logoColor=white"/></code>
-<code><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/></code>
-<code><img src="https://img.shields.io/badge/node-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/></code>
-<code><img src="https://img.shields.io/badge/react.js-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/></code>
-<code><img src="https://img.shields.io/badge/next-black.svg?style=for-the-badge&logo=Next&logoColor=white"/></code>
-<code><img src="https://img.shields.io/badge/vue-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/></code>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=flat&logo=typescript&logoColor=white)
+
+![React](https://img.shields.io/badge/React-61DAFB.svg?style=flat&logo=react&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue-42B883.svg?style=flat&logo=vue.js&logoColor=white)
+
+![node.js](https://img.shields.io/badge/node.js-339933?style=flat&logo=node.js&logoColor=white)
+![pnpm](https://img.shields.io/badge/pnpm-F69220?style=flat&logo=pnpm&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF.svg?style=flat&logo=vite&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032.svg?style=flat&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/Visual_Studio_Code-007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)
+![Mac OS](https://img.shields.io/badge/macOS-000000?style=flat&logo=macos&logoColor=white)
 
 
 <!-- [![Elmo2022's GitHub | Languages Over Time](https://stats.quine.sh/Elmo2022/languages-over-time?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=Elmo2022) -->
