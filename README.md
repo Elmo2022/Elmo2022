@@ -1,5 +1,5 @@
-### Hello 👋
-### I am Tianbo Zhang, a  front-end enthusiast.
+### Hello 👋 , I am Tianbo Zhang.
+### A front-end developer currently working at JD.com, focusing on IM related products.
 ### I hope to create some excellent and valuable products.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=flat&logo=typescript&logoColor=white)
@@ -34,4 +34,4 @@ Here are some ideas to get you started:
 -->
 <!-- ![暗色](https://raw.githubusercontent.com/Elmo2022/Elmo2022/output/github-contribution-grid-snake-dark.svg) -->
 ![亮色](https://raw.githubusercontent.com/Elmo2022/Elmo2022/output/github-contribution-grid-snake.svg)
-![3D](https://github.com/Elmo2022/Elmo2022/blob/master/profile-3d-contrib/profile-season-animate.svg)
+<!-- ![3D](https://github.com/Elmo2022/Elmo2022/blob/master/profile-3d-contrib/profile-season-animate.svg) -->
